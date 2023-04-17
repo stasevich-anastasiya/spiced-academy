@@ -1,0 +1,15 @@
+Continent,Region,Country,Capital,FIPS,ISO (2),ISO (3),ISO (No),Internet,Note
+Asia,East Asia,Hong Kong (China),Victoria,HK,HK,HKG,344,HK,
+Asia,East Asia,Macau (China),Macau,MC,MO,MAC,446,MO,
+Antarctica,Antarctica,Antarctica,,AY,AQ,ATA,10,AQ,9
+Atlantic Ocean,South Atlantic Ocean,Bouvet Island,,BV,BV,BVT,74,BV,
+Asia,South Asia,British Indian Ocean Territory,,IO,IO,IOT,86,IO,
+Asia,South East Asia,East Timor,,--,TP,TMP,626,TP,10
+Europe,Western Europe,"France, Metropolitan",,--,FX,FXX,249,FX,11
+Indian Ocean,Southern Indian Ocean,French Southern and Antarctic Lands,,FS,TF,ATF,260,--,12
+Indian Ocean,Southern Indian Ocean,Heard Island and McDonald Islands,,HM,HM,HMD,334,HM,
+Europe,South East Europe,Montenegro,,MW,--,--,,--,5
+Atlantic Ocean,South Atlantic Ocean,Saint Helena,,SH,SH,SHN,654,SH,
+Atlantic Ocean,South Atlantic Ocean,South Georgia and the South Sandwich Islands,,SX,GS,SGS,239,GS,
+Oceania,North Pacific Ocean,United States Minor Outlying Islands,,--,UM,UMI,581,UM,13
+Europe,South East Europe,Yugoslavia*,,--,YU,YUG,891,YU,5
